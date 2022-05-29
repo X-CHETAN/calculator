@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-//Simple calculator
+
 
 public class calculator
 {
